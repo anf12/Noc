@@ -4,3 +4,4 @@
 cd $spec17root
 source shrc
 runcpu -config=rv64g -action build all tune=base
+END
